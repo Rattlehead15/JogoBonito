@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo Bonito.Plugins", "Jogo Bonito.Plugins.csproj", "{2903116C-F573-F230-B09B-E95325CF14E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo Bonito", "Jogo Bonito.csproj", "{93E399E9-71F2-25E5-6720-A1FC923849C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo Bonito.Editor.Plugins", "Jogo Bonito.Editor.Plugins.csproj", "{F167D2F2-72CE-F030-5D65-A00C5C34EA04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2903116C-F573-F230-B09B-E95325CF14E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2903116C-F573-F230-B09B-E95325CF14E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2903116C-F573-F230-B09B-E95325CF14E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2903116C-F573-F230-B09B-E95325CF14E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93E399E9-71F2-25E5-6720-A1FC923849C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E399E9-71F2-25E5-6720-A1FC923849C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E399E9-71F2-25E5-6720-A1FC923849C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E399E9-71F2-25E5-6720-A1FC923849C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F167D2F2-72CE-F030-5D65-A00C5C34EA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F167D2F2-72CE-F030-5D65-A00C5C34EA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F167D2F2-72CE-F030-5D65-A00C5C34EA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F167D2F2-72CE-F030-5D65-A00C5C34EA04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
